@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.rowlandoconnor.co.uk/sitemap.xml
